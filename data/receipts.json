@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "store_name": "Circle K Nguyễn Huệ",
+    "total_amount": 85000.0,
+    "date": "23/07/2025",
+    "category": "Ăn uống",
+    "notes": "Mua nước và bánh mì sáng",
+    "raw_text": "CIRCLE K NGUYEN HUE\n123 Nguyen Hue St, Q1, HCMC\nTel: 028-3822-xxxx\n\nDate: 23/07/2025 08:30\nCashier: Linh\n\nBANH MI THIT NUONG    45,000\nNUOC CAM VFRESH       25,000\nCOCA COLA 330ML       15,000\n\nSUB TOTAL             85,000\nTOTAL                 85,000 VND\nCASH                  100,000\nCHANGE                15,000\n\nThank you for shopping!",
+    "processed_date": "2025-07-23T08:45:00",
+    "items": [
+      "Bánh mì thịt nướng",
+      "Nước cam Vfresh",
+      "Coca Cola 330ml"
+    ]
+  },
+  {
+    "id": 2,
+    "store_name": "Lotte Mart Quận 7",
+    "total_amount": 450000.0,
+    "date": "22/07/2025",
+    "category": "Mua sắm",
+    "notes": "Mua đồ gia dụng và thực phẩm",
+    "raw_text": "LOTTE MART QUAN 7\n469 Nguyen Huu Tho, Q7, HCMC\nHotline: 1900-555-xxx\n\nReceipt No: LM240722001\nDate: 22/07/2025 19:45\nCashier: 0025\n\nGAO TAM XOA 5KG        180,000\nDAU GOI HEAD&SHOULDER   89,000\nSUA TUOI VINAMILK      65,000\nTHIT HEO BA CHI        116,000\n\nSUB TOTAL             450,000\nVAT (10%)              45,000\nTOTAL                 495,000 VND\nMEMBER DISCOUNT       -45,000\nFINAL TOTAL           450,000 VND\n\nVISA ****1234         450,000\n\nThank you for shopping at Lotte Mart!",
+    "processed_date": "2025-07-22T20:15:00",
+    "items": [
+      "Gạo tám xoan 5kg",
+      "Dầu gội Head & Shoulder",
+      "Sữa tươi Vinamilk",
+      "Thịt heo ba chỉ"
+    ]
+  },
+  {
+    "id": 3,
+    "store_name": "Petrolimex Lê Văn Lương",
+    "total_amount": 300000.0,
+    "date": "21/07/2025",
+    "category": "Xăng dầu",
+    "notes": "Đổ xăng xe máy",
+    "raw_text": "PETROLIMEX LE VAN LUONG\nKm10, Le Van Luong, Q7, HCMC\nTax Code: 0100109106\n\nDate: 21/07/2025 16:20\nPump: 03\nAttendant: Duc\n\nRON95-III\nPrice: 25,000 VND/Liter\nVolume: 12.00 Liter\nAmount: 300,000 VND\n\nTOTAL: 300,000 VND\nCASH: 300,000 VND\n\nThank you!\nDrive safely!",
+    "processed_date": "2025-07-21T16:25:00",
+    "items": [
+      "Xăng RON95-III - 12 lít"
+    ]
+  },
+  {
+    "id": 4,
+    "store_name": "Starbucks Coffee Vincom",
+    "total_amount": 195000.0,
+    "date": "20/07/2025",
+    "category": "Ăn uống",
+    "notes": "Cà phê với bạn bè",
+    "raw_text": "STARBUCKS COFFEE\nVincom Center, Dong Khoi St\nHo Chi Minh City\n\nStore: 1901    Date: 20/07/2025\nTime: 14:30    Order: 150\nCashier: Mai\n\nVENTI CARAMEL MACCHIATO   155,000\nCHOCOLATE CROISSANT        40,000\n\nSUB TOTAL                195,000\nTOTAL                    195,000 VND\nVISA                     195,000\n\nThank you for choosing Starbucks!\nenjoy your coffee experience",
+    "processed_date": "2025-07-20T14:45:00",
+    "items": [
+      "Venti Caramel Macchiato",
+      "Chocolate Croissant"
+    ]
+  },
+  {
+    "id": 5,
+    "store_name": "Pharmacity Nguyễn Văn Cừ",
+    "total_amount": 125000.0,
+    "date": "19/07/2025",
+    "category": "Y tế",
+    "notes": "Mua thuốc cảm và vitamin",
+    "raw_text": "PHARMACITY\n456 Nguyen Van Cu, Q5, HCMC\nHotline: 1800-6821\n\nDate: 19/07/2025 09:15\nPharmacist: Dr. Linh\nPrescription: No\n\nPANADOL EXTRA 10 TABS     35,000\nVITAMIN C 1000MG 30 TABS  55,000\nBETADINE THROAT SPRAY     35,000\n\nSUB TOTAL               125,000\nTOTAL                   125,000 VND\nCASH                    150,000\nCHANGE                   25,000\n\nHealth is wealth!\nTake care of yourself",
+    "processed_date": "2025-07-19T09:30:00",
+    "items": [
+      "Panadol Extra 10 viên",
+      "Vitamin C 1000mg 30 viên",
+      "Betadine Throat Spray"
+    ]
+  },
+  {
+    "id": 6,
+    "store_name": "CGV Cinemas Landmark 81",
+    "total_amount": 240000.0,
+    "date": "18/07/2025",
+    "category": "Giải trí",
+    "notes": "Xem phim với gia đình",
+    "raw_text": "CGV CINEMAS LANDMARK 81\nVinhomes Central Park\nLevel 3-4, Landmark 81\n\nDate: 18/07/2025 19:00\nCinema: 07\nSeats: G10, G11\nBooking: CGV123456\n\nFAST X - IMAX\nAdult x2                 200,000\nCombo Popcorn Large       40,000\n\nSUB TOTAL               240,000\nTOTAL                   240,000 VND\nCREDIT CARD             240,000\n\nEnjoy your movie!\nThank you for choosing CGV",
+    "processed_date": "2025-07-18T18:45:00",
+    "items": [
+      "Vé xem phim Fast X - IMAX x2",
+      "Combo Popcorn Large"
+    ]
+  },
+  {
+    "id": 7,
+    "store_name": "Vinmart+ Hàm Nghi",
+    "total_amount": 67000.0,
+    "date": "17/07/2025",
+    "category": "Ăn uống",
+    "notes": "Mua đồ ăn trưa",
+    "raw_text": "VINMART+ HAM NGHI\n234 Ham Nghi St, Q1, HCMC\nTel: 028-3925-xxxx\n\nDate: 17/07/2025 12:30\nCashier: Thanh\nTill: 02\n\nCOM SUON NUONG BOX       45,000\nTRA CHANH TUOI           15,000\nKEM MERINO VANILLA        7,000\n\nSUB TOTAL                67,000\nTOTAL                    67,000 VND\nCASH                     70,000\nCHANGE                    3,000\n\nVinmart+ - Fresh & Convenient\nThank you!",
+    "processed_date": "2025-07-17T12:45:00",
+    "items": [
+      "Cơm sườn nướng box",
+      "Trà chanh tươi",
+      "Kem Merino Vanilla"
+    ]
+  },
+  {
+    "id": 8,
+    "store_name": "McDonald's Bitexco",
+    "total_amount": 156000.0,
+    "date": "16/07/2025",
+    "category": "Ăn uống",
+    "notes": "Ăn nhanh với đồng nghiệp",
+    "raw_text": "McDonald's BITEXCO\nGround Floor, Bitexco Tower\n2 Hai Trieu St, Q1, HCMC\n\nDate: 16/07/2025 13:15\nOrder: 2025071601\nCounter: 3\n\nBIG MAC MEAL              89,000\nMCFLURRY OREO            35,000\nAPPLE PIE                 16,000\nICED COFFEE               16,000\n\nSUB TOTAL               156,000\nTOTAL                   156,000 VND\nMOMO PAYMENT            156,000\n\nI'm lovin' it!\nThank you for choosing McDonald's",
+    "processed_date": "2025-07-16T13:30:00",
+    "items": [
+      "Big Mac Meal",
+      "McFlurry Oreo",
+      "Apple Pie",
+      "Iced Coffee"
+    ]
+  },
+  {
+    "id": 9,
+    "store_name": "FPT Shop Lê Lợi",
+    "total_amount": 2500000.0,
+    "date": "15/07/2025",
+    "category": "Mua sắm",
+    "notes": "Mua tai nghe AirPods",
+    "raw_text": "FPT SHOP LE LOI\n123 Le Loi St, Q1, HCMC\nHotline: 1800-6601\n\nDate: 15/07/2025 16:45\nSalesperson: Minh\nWarranty: 12 months\n\nAIRPODS PRO 2ND GEN      2,500,000\nModel: MTJV3ZA/A\nSerial: F4K2H3J8Q2\n\nSUB TOTAL              2,500,000\nVAT (10%)                250,000\nTOTAL                  2,750,000 VND\nMEMBER DISCOUNT         -250,000\nFINAL TOTAL            2,500,000 VND\n\nINSTALLMENT 0% 6 MONTHS\nVISA ****5678          2,500,000\n\nThank you for choosing FPT Shop!\nEnjoy your new AirPods Pro",
+    "processed_date": "2025-07-15T17:00:00",
+    "items": [
+      "AirPods Pro 2nd Gen"
+    ]
+  },
+  {
+    "id": 10,
+    "store_name": "The Coffee House Pasteur",
+    "total_amount": 78000.0,
+    "date": "14/07/2025",
+    "category": "Ăn uống",
+    "notes": "Cà phê làm việc",
+    "raw_text": "THE COFFEE HOUSE\n125 Pasteur St, Q3, HCMC\nHotline: 1800-6936\n\nDate: 14/07/2025 10:00\nOrder: TCH140725001\nBarista: Lan\n\nCLOUDFEE HANOI            55,000\nBANH MI QUE               23,000\n\nSUB TOTAL                 78,000\nTOTAL                     78,000 VND\nTCH POINTS USED          -8,000\nFINAL TOTAL               70,000 VND\nCASH                      80,000\nCHANGE                    10,000\n\nAwaken your creativity!\nThank you for visiting TCH",
+    "processed_date": "2025-07-14T10:15:00",
+    "items": [
+      "CloudFee Hanoi",
+      "Bánh mì que"
+    ]
+  },
+  {
+    "store_name": "— l",
+    "total_amount": 132000.0,
+    "date": "15/07/2025",
+    "items": [
+      {
+        "name": "- —C. BànIC",
+        "price": 2025.0
+      },
+      {
+        "name": "— - J ọ",
+        "price": 1836.0
+      },
+      {
+        "name": "— Cơm Dương Châu Má",
+        "price": 50000.0
+      },
+      {
+        "name": "— ðđ n i xố Mỡ",
+        "price": 123900.0
+      },
+      {
+        "name": "| ˆ",
+        "price": 30006.0
+      },
+      {
+        "name": "+Thanh toán tiên mặt",
+        "price": 132000.0
+      }
+    ],
+    "phone": "",
+    "address": "Địa chỉ: 242c Thoại Ngọc Hầu, Phú Thạnh, Tân",
+    "confidence": 65,
+    "category": "Ăn uống",
+    "notes": "",
+    "processed_date": "2025-07-27T14:36:59.718051",
+    "id": "receipt_1753601819718"
+  }
+]
